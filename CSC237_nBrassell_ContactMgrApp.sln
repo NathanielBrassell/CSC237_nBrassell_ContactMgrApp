@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSC237_nBrassell_ContactMgrApp", "CSC236_nBrassell_ContactMgrApp\CSC237_nBrassell_ContactMgrApp.csproj", "{2E4FAC9E-50F4-4088-A4AD-81CCC13470F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4FAC9E-50F4-4088-A4AD-81CCC13470F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4FAC9E-50F4-4088-A4AD-81CCC13470F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4FAC9E-50F4-4088-A4AD-81CCC13470F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4FAC9E-50F4-4088-A4AD-81CCC13470F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2659ED5-7E33-44AD-80B3-736E4664FB31}
+	EndGlobalSection
+EndGlobal
